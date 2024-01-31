@@ -27,9 +27,9 @@ description: Official servers owned by Discord.
 
 @gg/discordgameslab
 
-## Discord Safety
+## SA: DOJRP 
 
-> **Description:** Currently under construction.  <br/>
-**Link:** [Discord Safety](https://discord.gg/safety)
+> **Description:** Works.  <br/>
+**Link:** [Discord Safety](https://discord.gg/FnjMPJShKS)
 
-@gg/safety
+@gg/FnjMPJShKS
